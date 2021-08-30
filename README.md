@@ -1,12 +1,12 @@
  # AWS Data Engineering Course  # 
 
-**Resources for the free AWS Data Engineering course on youtube**
-https://youtu.be/ckQ7d6ca2J0
+**Resources for the free AWS Data Engineering course on youtube**. 
+[youtube](https://youtu.be/ckQ7d6ca2J0) 
 
-**Course Material Links**
-🖥️ https://aws-dataengineering-day.workshop.aws/ 
-❔https://www.thequestionbank.io 
-ℹ️ https://johnnychivers.co.uk 
+**Course Material Links**. 
+🖥️ [aws booklet](https://aws-dataengineering-day.workshop.aws). 
+❔[the questionbank](https://www.thequestionbank.io).  
+ℹ️ [website](https://johnnychivers.co.uk)  
 
 
 In this free AWS Data Engineering course we take a deep dive into the services provided by AWS to help us with out with our everyday data engineering needs. The course is create for both AWS beginners and seasoned pro’s alike. I have loosely based this course on the AWS Data Engineering Immersion Day. In fact the Kinesis lab is straight out of the Imersion days booklet.  The rest of the labs take the ideas from the booklet, but translates them so we can build our own use cases at home without being in an instructor led environment. During the course we cover AWS Kinesis, AWS DMS and AWS Glue from both a theory and practical perspective. All slides and code are available a GitHub - link above. I will also make all this information free via my website - again link above.
