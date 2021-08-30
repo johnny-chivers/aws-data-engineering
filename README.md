@@ -1,9 +1,9 @@
-**AWS Data Engineering Course**
+ # AWS Data Engineering Course  # 
 
-Resources for the free AWS Data Engineering course on youtube
+**Resources for the free AWS Data Engineering course on youtube**
 https://youtu.be/ckQ7d6ca2J0
 
-Course Material Links
+**Course Material Links**
 🖥️ https://aws-dataengineering-day.workshop.aws/ 
 ❔https://www.thequestionbank.io 
 ℹ️ https://johnnychivers.co.uk 
